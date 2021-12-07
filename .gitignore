@@ -1,6 +1,4 @@
 node_modules
-.idea/
 .vscode/settings.json
 .env
-.generated
 yarn-error.log
